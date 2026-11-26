@@ -117,5 +117,12 @@ window.PORTFOLIO_PROJECTS = [
     "category": "Action",
     "image": "https://play-lh.googleusercontent.com/pcsb/AEecphb8LNYZGOVTzrY3qNB6YR0PEkwJO3ll5d6ZXEkPq9gFIHHsROrKcgf0nnzHZeOF3RL50Lf9Sh_HneeSeXW3sNgEt3pfXz4=w240-h480",
     "url": "https://play.google.com/store/apps/details?id=com.aag.spider.rope.hero.city.game"
+  },
+  {
+    "title": "Wild Crocodile Animal Sim",
+    "account": 2,
+    "category": "Simulater",
+    "url": "https://play.google.com/store/apps/details?id=com.aag.crocodile.animal.game",
+    "image": "https://play-lh.googleusercontent.com/DjWx0L32-lKVWe-3WDdKPcy6roWPT8aEzRFRp5m1XbMyoqwWcHgOo3k0opzZ-RWBgrtWxj88DplXvH_svuuixxQ=w240-h480-rw"
   }
 ];
